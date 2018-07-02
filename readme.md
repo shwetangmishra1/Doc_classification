@@ -1,1 +1,1 @@
-classify documents using sckikit.
+classify documents using scikit.
